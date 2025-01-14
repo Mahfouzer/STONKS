@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# STONKS
-list stocks and search for your next investment (React app) ... go for master branch we're not final here
 
-=======
 # Stoncks
 
 A React-based web application that displays stocks listed in the Nasdaq exchange.
@@ -55,4 +51,3 @@ npm run build
 ## API Integration
 
 This project uses the Polygon.io API for stock market data. You'll need to sign up for an API key at [Polygon.io](https://polygon.io/).
->>>>>>> ffbd26e56f773eac59ffa7e6d81a0523a196fc79

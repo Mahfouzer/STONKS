@@ -82,7 +82,7 @@ export const ExploreScreen: React.FC = () => {
   return (
     <div className="min-h-screen bg-yellow-50 p-4">
       <div className="max-w-6xl mx-auto">
-      <h1 className='text-bold text-4xl mb-3'> 📈 Nader Mahfouz <span className='text-green-600'>Stonks</span></h1>
+      <h1 className='text-bold text-4xl mb-3'> 📈 Nader Mahfouz <span className='text-green-600'>Stonks</span> <span className='text-xs text-purple-500'>(feat AI✨)</span></h1>
         <div className="mb-6">
           <input
             type="text"
